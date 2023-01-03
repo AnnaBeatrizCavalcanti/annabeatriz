@@ -8,8 +8,5 @@ Instrumentadora Cirúrgica e graduanda no curso de Análise e Desenvolvimento de
 <b>Rumo aos estudos de:</b> PHP, C, C++, C#, RUBY, JAVA, ABAP, MySQL, NoSQL, SQL, LINUX, AUTOMAÇÃO E SEGURANÇA DA INFORMAÇÃO. 
 </div>
 
-<div>
-<img height="180em" src="https://github.com/AnnaBeatrizCavalcanti?tab=repositories&show_icons-true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github.com/AnnaBeatrizCavalcanti?tab=repositories&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
+
 
