@@ -9,4 +9,9 @@ Instrumentadora Cirúrgica e graduanda no curso de Análise e Desenvolvimento de
 </div>
 
 
+# Contatos
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/annacavalcanti/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 
